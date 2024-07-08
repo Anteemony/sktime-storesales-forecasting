@@ -1,3 +1,4 @@
 .idea
 /notebooks/data
 .ipynb_checkpoints/,gitignore-checkpoint
+/notebooks/.ipynb_checkpoints
