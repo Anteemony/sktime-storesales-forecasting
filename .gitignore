@@ -2,3 +2,4 @@
 /notebooks/data
 .ipynb_checkpoints/,gitignore-checkpoint
 /notebooks/.ipynb_checkpoints
+.ipynb_checkpoints/requirements-checkpoint.txt
